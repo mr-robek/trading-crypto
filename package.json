@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "trade_strategies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mr-robek",
+  "license": "ISC",
+  "dependencies": {
+    "table": "^5.4.1"
+  }
+}
